@@ -1,6 +1,7 @@
 # choiHeungbae
 - blog: http://jacking.tistory.com/
 - twitter: @jacking75
+- email: jacking75@gmail.com
 
 
 ### 사용하는 프로그래밍 언어
